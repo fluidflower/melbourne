@@ -12,10 +12,10 @@ One solute transport of CO2 dissolved in aqueous phase.
 
 #### Fluid-matrix interaction
 
-* **Capillary pressure:** _E.g._ Brooks-Corey
+* **Capillary pressure:** Brooks-Corey
   ![p_c(S_{l}) = p_\text{entry}S_{le}^{-1/\lambda}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+p_c%28S_%7Bl%7D%29+%3D+p_%5Ctext%7Bentry%7DS_%7Ble%7D%5E%7B-1%2F%5Clambda%7D%0A)
 
-* **Relative permeability:** ![k_{rw} = (\frac{S_w - S_{wr}}{1 - S_{wr}})^{\frac{2 + 3\lambda}{\lambda}}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+k_%7Brw%7D+%3D+%28%5Cfrac%7BS_w+-+S_%7Bwr%7D%7D%7B1+-+S_%7Bwr%7D%7D%29%5E%7B%5Cfrac%7B2+%2B+3%5Clambda%7D%7B%5Clambda%7D%7D)
+* **Relative permeability:** Brooks-Corey ![k_{rw} = (\frac{S_w - S_{wr}}{1 - S_{wr}})^{\frac{2 + 3\lambda}{\lambda}}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+k_%7Brw%7D+%3D+%28%5Cfrac%7BS_w+-+S_%7Bwr%7D%7D%7B1+-+S_%7Bwr%7D%7D%29%5E%7B%5Cfrac%7B2+%2B+3%5Clambda%7D%7B%5Clambda%7D%7D)
 
 #### Phase composition: Applied equations of state
 
