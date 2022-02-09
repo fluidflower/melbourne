@@ -6,6 +6,7 @@ _You may use https://tex-image-link-generator.herokuapp.com/ to render math form
 ### PDEs
 
 One mass balance per each phase; CO2 gas phase and aqueous phase.
+One solute transport of CO2 dissolved in aqueous phase.
 
 ### Constitutive relations
 
