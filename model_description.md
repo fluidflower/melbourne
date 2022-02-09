@@ -5,7 +5,7 @@ _You may use https://tex-image-link-generator.herokuapp.com/ to render math form
 
 ### PDEs
 
-_One mass balance per each phase; CO2 gas phase and aqueous phase.
+One mass balance per each phase; CO2 gas phase and aqueous phase.
 
 ### Constitutive relations
 
