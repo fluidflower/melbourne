@@ -1,10 +1,11 @@
-id,permeability (m2),porosity (-),pc_entry (pa),m_van genuchten,p0_van genuchten (pa),krw_end,krn_end,swr,snc,pc_lo_swe,pc_hi_swe,krn_lo_swe,krw_hi_swe,alias
-1,,,,Constatn Pc,,1,,0,,,,,,Sealing Fault
-2,,,0,0.72972973,600,0.75,,0.14,,,,,,G
-3,,,0,0.72972973,600,0.72,,0.12,,,,,,F
-4,,,0,0.72972973,600,0.93,,0.21,,,,,,E
-5,,,194.3,0.72972973,600,0.95,,0.17,,,,,,D
-6,,,1079.1,0.72972973,600,0.93,,0.15,,,,,,C
-7,,,2943,0.72972973,600,0.71,,0.32,,,,,,ESF (Top Seal)
-8,,,2943,0.72972973,600,0.71,,0.32,,,,,,ESF (Bottom Seal)
-9,,,0,Constatn Pc,,1,,0,,,,,,Free Flow
+Base Case,,,,,,,,
+id,permeability (m2),porosity (-),pe (entry pressure) (pa),Lamda,swr (for pc),swr (for relative permeability),snc (critical saturation),alias
+1,9.87E-15,0.25,500000,0,-,0,0,Sealing Fault
+2,9.45E-09,0.44,10,3.499486056,0.0999,0.1,0.06,G
+3,4.20E-09,0.45,32.3,3.62620904,0.1199,0.12,0.13,F
+4,1.98E-09,0.45,363,3.7,0.1196,0.12,0.06,E
+5,1.10E-09,0.44,657.27,3.696053333,0.1167,0.12,0.08,D
+6,4.67E-10,0.44,1442.07,3.690990909,0.1356,0.14,0.1,C
+7,2.66E-11,0.43,6058.88,3,0.31968,0.32,0.14,ESF (Top Seal)
+8,4.34E-11,0.43,6058.88,3,0.31968,0.32,0.14,ESF (Bottom Seal)
+9,1.18E-08,1,0,0,-,0,0,Free Flow
